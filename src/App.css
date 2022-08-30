@@ -1,0 +1,17 @@
+#root {
+    margin: 0 auto;
+}
+
+.login {
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.input {
+    margin-top: irem;
+}
+
+button {
+    width: 10rem;
+    margin-top: 0.5rem;
+}
